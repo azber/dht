@@ -1,4 +1,4 @@
-module github.com/anacrolix/dht/v2
+module github.com/azber/dht/v2
 
 require (
 	github.com/anacrolix/envpprof v1.1.0
