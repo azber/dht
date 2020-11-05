@@ -18,7 +18,7 @@ import (
 
 	"github.com/anacrolix/log"
 
-	"github.com/anacrolix/dht/v2/krpc"
+	"github.com/azber/dht/v2/krpc"
 )
 
 func TestSetNilBigInt(t *testing.T) {
@@ -235,7 +235,7 @@ func TestGlobalBootstrapAddrs(t *testing.T) {
 	}
 }
 
-// https://github.com/anacrolix/dht/pull/19
+// https://github.com/azber/dht/pull/19
 func TestBadGetPeersResponse(t *testing.T) {
 	pc, err := net.ListenPacket("udp", "localhost:0")
 	require.NoError(t, err)

@@ -6,7 +6,7 @@ import (
 	"github.com/anacrolix/stm"
 	"github.com/stretchr/testify/assert"
 
-	"github.com/anacrolix/dht/v2/krpc"
+	"github.com/azber/dht/v2/krpc"
 )
 
 func TestTraversal(t *testing.T) {

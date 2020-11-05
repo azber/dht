@@ -23,7 +23,7 @@ import (
 
 	"github.com/anacrolix/stm"
 
-	"github.com/anacrolix/dht/v2/krpc"
+	"github.com/azber/dht/v2/krpc"
 )
 
 // A Server defines parameters for a DHT node server that is able to send

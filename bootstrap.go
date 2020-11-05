@@ -5,7 +5,7 @@ import (
 
 	"github.com/anacrolix/stm"
 
-	"github.com/anacrolix/dht/v2/krpc"
+	"github.com/azber/dht/v2/krpc"
 )
 
 // Populates the node table.

@@ -10,8 +10,8 @@ import (
 
 	"github.com/anacrolix/tagflag"
 
-	"github.com/anacrolix/dht/v2"
-	"github.com/anacrolix/dht/v2/krpc"
+	"github.com/azber/dht/v2"
+	"github.com/azber/dht/v2/krpc"
 )
 
 func main() {

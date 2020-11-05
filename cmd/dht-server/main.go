@@ -11,7 +11,7 @@ import (
 	_ "github.com/anacrolix/envpprof"
 	"github.com/anacrolix/tagflag"
 
-	"github.com/anacrolix/dht/v2"
+	"github.com/azber/dht/v2"
 )
 
 var (

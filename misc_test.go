@@ -6,7 +6,7 @@ import (
 	"github.com/anacrolix/missinggo/v2/iter"
 	"github.com/stretchr/testify/assert"
 
-	"github.com/anacrolix/dht/v2/krpc"
+	"github.com/azber/dht/v2/krpc"
 )
 
 func int160WithBitSet(bit int) *int160 {
